@@ -4,6 +4,7 @@ import Anime from './partials/anime';
 import initTootTip from './partials/tooltip';
 import AppHelpers from "./app-helpers";
 
+import './misto/js/jquery.js';
 import './misto/js/theme.js';
 import './misto/js/audioplayer/plyr.min.js';
 import './misto/js/magnific-popup/jquery.magnific-popup.min.js';
