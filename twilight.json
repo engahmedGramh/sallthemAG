@@ -735,7 +735,32 @@
             "title": "معرض اصور",
             "icon": "sicon-image1",
             "path": "GalleryImage",
-            "fields": []
+            "fields": [
+                {
+                    "id": "title",
+                    "key": "e264ef0b-b43d-4f7b-84f8-6fddbe8fcb6f",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": "معرض الصور",
+                    "variant": "h1",
+                    "icon": "sicon-format-text",
+                    "defaulted": true
+                },
+                {
+                    "id": "image",
+                    "key": "61148096-44b7-4a7c-a233-da679cf420d3",
+                    "type": "string",
+                    "format": "image",
+                    "label": "Image",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "e.g. https://hostname.com/image.png",
+                    "icon": "sicon-image",
+                    "value": null,
+                    "required": false
+                }
+            ]
         }
     ],
     "support_url": "https://salla.dev",
