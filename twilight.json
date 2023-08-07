@@ -729,6 +729,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "f4b8c7a3-6d08-4d4d-8f98-90a5a46a6b67",
+            "title": "معرض اصور",
+            "icon": "sicon-image1",
+            "path": "GalleryImage",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
