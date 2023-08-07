@@ -4,6 +4,20 @@ import Anime from './partials/anime';
 import initTootTip from './partials/tooltip';
 import AppHelpers from "./app-helpers";
 
+import  Theme from './misto/js/theme.js';
+import  Plyr from './misto/js/audioplayer/plyr.min.js';
+import  MagnificPopup from './misto/js/magnific-popup/jquery.magnific-popup.min.js';
+import  Theme2 from './misto/js/owl-carousel/owl.carousel.min.js';
+import  Theme3 from './misto/js/parallax/parallaxie.min.js';
+import  Theme4 from './misto/js/counter/counter.js';
+import  Theme5 from './misto/js/particle/jquery.particleground.min.js';
+import  Theme6 from './misto/js/countdown/jquery.countdown.min.js';
+import  Theme7 from './misto/js/isotope/isotope.pkgd.min.js';
+import  Theme8 from './misto/js/contact-form/contact-form.js';
+import  Theme9 from './misto/js/theme.js';
+
+
+
 class App extends AppHelpers {
   constructor() {
     super();

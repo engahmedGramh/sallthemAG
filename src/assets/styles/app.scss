@@ -88,8 +88,20 @@
 @import './05-utilities/swal';
 @import './05-utilities/safari-fixes';
 @import './05-utilities/font-customization';
-@import './misto/css/style.css';
+
 
 @import 'lite-youtube-embed';
 @import 'swiper/css/bundle';
-@import 'mmenu-light/dist/mmenu-light.css';
+// @import 'mmenu-light/dist/mmenu-light.css';
+
+@import './misto/css/bootstrap.min.css';
+@import './misto/css/animate.css';
+@import './misto/css/fontawesome-all.css';
+@import './misto/css/themify-icons.css';
+@import './misto/css/audioplayer/plyr.css';
+@import './misto/css/magnific-popup/magnific-popup.css';
+@import './misto/css/owl-carousel/owl.carousel.css';
+@import './misto/css/base.css';
+@import './misto/css/shortcodes.css';
+@import './misto/css/style.css';
+@import './misto/css/responsive.css';
